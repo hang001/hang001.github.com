@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Mr Hang's Blog]]></title>
+  <subtitle><![CDATA[Love is eternal]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://wscg.me/"/>
+  <updated>2014-11-27T15:25:46.530Z</updated>
+  <id>http://wscg.me/</id>
+  
+  <author>
+    <name><![CDATA[byandby]]></name>
+    <email><![CDATA[yongjinquanli@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[chabuduole]]></title>
+    <link href="http://wscg.me/2014/11/08/chabuduole/"/>
+    <id>http://wscg.me/2014/11/08/chabuduole/</id>
+    <published>2014-11-08T14:24:15.000Z</published>
+    <updated>2014-11-08T14:24:15.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[UUUUUUUUU]]></title>
+    <link href="http://wscg.me/2014/11/08/UUUUUUUUU/"/>
+    <id>http://wscg.me/2014/11/08/UUUUUUUUU/</id>
+    <published>2014-11-08T12:52:13.000Z</published>
+    <updated>2014-11-15T14:45:14.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="This_is_test-">This is test.</h1>
+<p>今天真的很开心，其实我只是需要一个可以写东西的地方，协作这个功能对我来说可能用处不大。</p>
+<ul>
+<li>one</li>
+<li>two</li>
+<li><p>three</p>
+</li>
+<li><p>public void main(strgs[]){</p>
+</li>
+<li>printf(“Hello world”);</li>
+<li>}</li>
+</ul>
+<ol>
+<li>fasdfas</li>
+<li>asdf</li>
+<li>a</li>
+</ol>
+<p><strong>这会是一个标题吗？</strong></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="This_is_test-">This is test.</h1>
+<p>今天真的很开心，其实我只是需要一个可以写东西的地方，协作这个功能对我来说可能用处不大。</p>
+<ul>
+<li>one</li>
+<li>two</li>
+<li><p>three</p>]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[34rasdfasd.,]]></title>
+    <link href="http://wscg.me/2014/11/07/34rasdfasd/"/>
+    <id>http://wscg.me/2014/11/07/34rasdfasd/</id>
+    <published>2014-11-07T15:03:13.000Z</published>
+    <updated>2014-11-10T13:37:37.000Z</updated>
+    <content type="html"><![CDATA[<p>The easiest way to get started with Google Custom Search is to create a basic search engine using the Control Panel. You can then download the engine’s XML files and modify them to add futher customizations. Since you’re experimenting and figuring out some basic concepts, spend only a couple of minutes making your first search engine. Keep it simple so that you can follow what’s happening when you start testing it. You can always change it later.</p>
+<p>Defining a Custom Search Engine in Control Panel</p>
+<p>To create a custom search engine:</p>
+<p>Sign into Control Panel using your Google Account (get an account if you don’t have one).<br>In the Sites to search section, add the pages you want to include in your search engine. You can include any sites you want, not just the sites you own. You can include whole site URLs or individual pages URLs. You can also use URL patterns.<br>The name of your search engine will be automatically generated based on the URLs you select. You can change this name at any time.<br>Select the language of your search engine. This defines the language of the buttons and other design elements of your search engine, but doesn’t affect the actual search results.<br>Click Create.<br>Your basic search engine is ready to use! To see more configuration options, go to the Control Panel. Control Panel also has a preview window that allows you to test and fine-tune your search results.</p>
+<p>To learn more about options available in Control Panel, visit the Custom Search Help Center. To add advanced options (e.g. filtering or results order) and further customize your search engine via XML configuration files, see the Developer Guide.</p>
+<p>Using the engine</p>
+<p>Once you have defined your search engine, it can be accessed in two ways:</p>
+<p>Google-hosted Custom Search Engine homepage - you can find public url for your engine homepage in the Setup &gt; Details section of the Control Panel and share it with your users.<br>A search box in your website - If you embed a search box in your webpage, your users can make searches from your website.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>The easiest way to get started with Google Custom Search is to create a basic search engine using the Control Panel. You can then downloa]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[YYYYYYYYYYYYVVVVVVVVVVBBBBBB]]></title>
+    <link href="http://wscg.me/2014/11/07/YYYYYYYYYYYYVVVVVVVVVVBBBBBB/"/>
+    <id>http://wscg.me/2014/11/07/YYYYYYYYYYYYVVVVVVVVVVBBBBBB/</id>
+    <published>2014-11-07T13:47:43.000Z</published>
+    <updated>2014-11-07T13:47:43.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[太死特]]></title>
+    <link href="http://wscg.me/2014/11/07/%E5%A4%AA%E6%AD%BB%E7%89%B9/"/>
+    <id>http://wscg.me/2014/11/07/太死特/</id>
+    <published>2014-11-07T10:11:21.000Z</published>
+    <updated>2014-11-07T10:11:21.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://wscg.me/2014/11/06/hello-world/"/>
+    <id>http://wscg.me/2014/11/06/hello-world/</id>
+    <published>2014-11-06T15:03:55.000Z</published>
+    <updated>2014-10-13T06:25:41.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2>
+<h3 id="Create_a_new_post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+
+<p><a id="more"></a><br>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2>
+<h3 id="Create_a_new_post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+
+<p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[中文 测试]]></title>
+    <link href="http://wscg.me/2014/10/14/%E4%B8%AD%E6%96%87-%E6%B5%8B%E8%AF%95/"/>
+    <id>http://wscg.me/2014/10/14/中文-测试/</id>
+    <published>2014-10-13T16:00:11.000Z</published>
+    <updated>2014-10-13T16:00:11.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[my dream]]></title>
+    <link href="http://wscg.me/2014/10/13/my-dream/"/>
+    <id>http://wscg.me/2014/10/13/my-dream/</id>
+    <published>2014-10-13T15:48:11.000Z</published>
+    <updated>2014-10-13T15:48:11.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[EEEEEEEEEEEEEEEE]]></title>
+    <link href="http://wscg.me/2014/10/13/EEEEEEEEEEEEEEEE/"/>
+    <id>http://wscg.me/2014/10/13/EEEEEEEEEEEEEEEE/</id>
+    <published>2014-10-13T12:10:22.000Z</published>
+    <updated>2014-10-13T12:10:22.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[DDDDDDDDDDDDDDDD]]></title>
+    <link href="http://wscg.me/2014/10/13/DDDDDDDDDDDDDDDD/"/>
+    <id>http://wscg.me/2014/10/13/DDDDDDDDDDDDDDDD/</id>
+    <published>2014-10-13T12:10:12.000Z</published>
+    <updated>2014-10-13T12:10:12.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[CCCCCCCCCCCCCCCCC]]></title>
+    <link href="http://wscg.me/2014/10/13/CCCCCCCCCCCCCCCCC/"/>
+    <id>http://wscg.me/2014/10/13/CCCCCCCCCCCCCCCCC/</id>
+    <published>2014-10-13T12:10:01.000Z</published>
+    <updated>2014-10-13T12:10:01.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[BBBBBBBBBBBBBBB]]></title>
+    <link href="http://wscg.me/2014/10/13/BBBBBBBBBBBBBBB/"/>
+    <id>http://wscg.me/2014/10/13/BBBBBBBBBBBBBBB/</id>
+    <published>2014-10-13T12:09:51.000Z</published>
+    <updated>2014-10-13T12:09:51.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[AAAAAAAAAAAAA]]></title>
+    <link href="http://wscg.me/2014/10/13/AAAAAAAAAAAAA/"/>
+    <id>http://wscg.me/2014/10/13/AAAAAAAAAAAAA/</id>
+    <published>2014-10-13T12:09:28.000Z</published>
+    <updated>2014-10-13T15:22:39.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+      <category term="test" scheme="http://wscg.me/tags/test/"/>
+    
+      <category term="HexoTest" scheme="http://wscg.me/categories/HexoTest/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[第一篇]]></title>
+    <link href="http://wscg.me/2014/10/13/my-new-post/"/>
+    <id>http://wscg.me/2014/10/13/my-new-post/</id>
+    <published>2014-10-13T00:49:53.000Z</published>
+    <updated>2014-10-13T00:50:43.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
